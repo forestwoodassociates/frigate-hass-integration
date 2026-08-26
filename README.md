@@ -15,6 +15,8 @@
 
 # Frigate Home Assistant Integration
 
+NOTE: This is a fork (kept up to date) from the blakeblackshear Frigate Home Assistant Integration. It applies one additional update that is not yet incorporated into the main code (but it is submitted). This update enables a Home Assistant client to request Videos On Demand for a specific start/end time range. This allows a review of all of the events within a notification. Otherwise, an application only has access to the separate clips that occur within the review. The "Egret NVT TV" (installable from the Google Play Store [Egret NVR TV](https://play.google.com/store/apps/details?id=com.programmersbox.forestwoodass.egretnvrtv) app will use this API, if it's available, to provide a better user experience of the Frigate review.
+
 Provides the following:
 
 - Rich media browser with thumbnails and navigation
